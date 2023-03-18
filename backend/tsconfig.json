@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "resolveJsonModule": true,
+        "target": "es2018",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+    },
+    
+    "exclude": [
+        "node_modules",
+    ]
+}
